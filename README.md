@@ -1,8 +1,8 @@
 ## Project Demo Image
 Here is an image from the project:
 
-![Project Image](pubmic/screenshot1.png)
-![Project Image](pubmic/screenshot2.png)
+![Project Image](public/screenshot1.png)
+![Project Image](public/screenshot2.png)
 
 
 
